@@ -22,13 +22,13 @@ First, the path of the rays is calculated using the formula d*sin α α=k*λ, wh
 α is the angle of deviation of the ray from the horizontal. Then the image is filled with pixels of the desired color. 
 The program supports images of sufficiently high resolution, which allows you to graphically plot harmonics up to the hundredth order.
 
-![picture1](LinearWaves/good pictures/picture1.png)
+![picture1](/LinearWaves/good pictures/picture1.png)
 
 The main advantage of the computer model of the Talbot effect is that in a real physical experiment, 
 the observation of high harmonics is complicated by the appearance of noise created by higher harmonics of the spatial frequency spectrum. 
 In the computer implementation, there is no noise and the difference between harmonics of different orders is well traced.
 
-![picture2](LinearWaves/good pictures/picture2.png)
+![picture2](/LinearWaves/good pictures/picture2.png)
 
 The functionality of the program is actually limited by the speed of the computer. Creating images with high-order harmonics can take a considerable amount of time. 
 Visualization of the finished carpet may also take some time, but the harmonics of both the first and hundredth order will be clearly visible in the image.
