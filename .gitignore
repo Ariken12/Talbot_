@@ -4,4 +4,4 @@
 *.vscode*
 *venv*
 *test*
-*.png
+*good_pictures*
