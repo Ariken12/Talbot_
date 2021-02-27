@@ -22,11 +22,7 @@ First, the path of the rays is calculated using the formula d*sin α α=k*λ, wh
 α is the angle of deviation of the ray from the horizontal. Then the image is filled with pixels of the desired color. 
 The program supports images of sufficiently high resolution, which allows you to graphically plot harmonics up to the hundredth order.
 
-<<<<<<< HEAD
 ![picture1](https://github.com/Ariken12/Talbot_Optical/LinearWaves/good_pictures/picture1.png)
-=======
-![picture1](https://github.com/Ariken12/Talbot_Optical/LinearWaves/good pictures/picture1.png)
->>>>>>> 74d440c41479e4be85aeb21c6a877f7174cae4a3
 
 The main advantage of the computer model of the Talbot effect is that in a real physical experiment, 
 the observation of high harmonics is complicated by the appearance of noise created by higher harmonics of the spatial frequency spectrum. 
